@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 6,
+    "uniqCompNum": 7,
     "versionPublish": "3.10.4",
     "favicon": "",
     "noImageResize": "",
@@ -150,6 +150,52 @@
           "title": "BIENVENIDO",
           "text": "Termas de Río Hondo, Santiago del Estero, Argentina",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#extForm4-1\" data-toolbar=\"-mbrBtnMove\">REPORTAR</a> "
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader7",
+          "_anchor": "extHeader7-6",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1478486982180-2de2fafa19f9-2000x1333-85.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "title": "INGRESAR",
+          "text": "Inicie sesión en el sistema para realizar reportes.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "form": {
+            "action": "agustinquetto@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "customTitle": "Cuenta o DNI"
+              },
+              "email": {
+                "title": "Email",
+                "customTitle": "Contraseña"
+              }
+            }
+          },
+          "button": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENTRAR</a>"
         },
         {
           "_tags": [
